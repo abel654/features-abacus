@@ -79,7 +79,6 @@
   .accordion-title {
     padding: 0.1rem 0.3rem;
     color: #5371FF;
-    border: 1px solid;
     font-weight: bold;
     cursor: pointer;
     transition: all 0.2s;
